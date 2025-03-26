@@ -1,0 +1,7 @@
+﻿  Main.cpp
+F:\Uni Work\Multiplayer\Premade\CI628-PongClient-master\src\Main.cpp(34,21): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Uni Work\Multiplayer\Premade\CI628-PongClient-master\src\Main.cpp(43,19): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Uni Work\Multiplayer\Premade\CI628-PongClient-master\src\Main.cpp(79,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MyGame.cpp
+  Generating Code...
+  MyGame.vcxproj -> F:\Uni Work\Multiplayer\Premade\CI628-PongClient-master\Release\MyGame.exe
